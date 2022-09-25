@@ -1,0 +1,55 @@
+<html>
+<head>
+  <title>Lab Test 1
+  </title>
+</head>
+<body>
+	<h1> LAMBORGHINI MODELS
+	<style>
+	table {
+           border: 20px solid black;
+    }	
+	th{
+		font-size: 50;
+	}	
+	</style>
+<table border="10"  bgcolor="#b3ffb3">
+      <tr>
+            <th>SESTO ELEMENTO </th>
+            <th> HURACAN</th>
+            <th> URUS </th>
+      </tr>
+      <tr>
+            <td><img height='300' src="car1.jpg"/></td>
+            <td><img height='300' src="car2.jpg"/></td>
+            <td><img height='300' src="car3.jpg"/></td>
+      </tr>
+      <tr>
+            <td><h4> Design and specifications</h4>
+The Sesto Elemento is equipped with Lamborghini's 6-speed "e-gear" automated manual transmission and an all-wheel-drive system, mated to a 5.2 litre V10 engine borrowed from the Gallardo Superleggera, generating 570 PS (419 kW; 562 hp) and 540 N⋅m (398 lbf⋅ft) of torque. The chassis, body, drive shaft and suspension components are made of carbon fibre, reducing the overall weight to 999 kg (2,202 lb), a weight comparable to subcompact cars.[2] The Sesto Elemento was the first car to use forged carbon fibre (in the tub and suspension arms), a new type of carbon composite developed by Lamborghini and Callaway Golf Company.
+
+
+Sesto Elemento rear deck lid at the Lamborghini museum
+The engine is cooled through 10 distinctive hexagonal holes in the engine cover, while two intakes funnel cool air into the mid-mounted engine compartment and the exhaust pipes are positioned in the rear wing. Lamborghini claims a 0–100 km/h (0–62 mph) acceleration time of 2.5 seconds,0–200 km/h (0–124 mph) time of 8.0 seconds, and a top speed in excess of 356 km/h (221 mph).
+
+
+The interior of the Sesto Elemento is generally bare without vehicle comforts such as air-conditioning and stereo. The Sesto Elemento also lacks seats, instead having foam padding directly adhered to the carbon fibre chassis.</td>
+            <td> <h4>Specifications and performance</h4>
+            	<h4>Specifications</h4>
+            	<h4>Engine</h4>
+            	The Huracán maintains the 5.2-litre naturally aspirated Audi/Lamborghini V10 engine with an additional 0.2 litres, compared to the Gallardo Gallardo, tuned to generate a maximum power output of 449 kW (602 hp; 610 PS). To ensure its balance and performance, the car is mid-engined. The engine has both direct fuel injection and multi-point fuel injection. It combines the benefits of both of these systems; it is the first time this combination is used in a V10 engine. To increase its efficiency, the Huracán's engine also includes a start-stop system.[citation needed] The firing order of the engine is 1, 6, 5, 10, 2, 7, 3, 8, 4, 9. This is printed on a metal plate on the top of the engine, as with all other Lamborghini models.
+
+The drag coefficient of Cd=0.39 was undisclosed until 2021.[9]
+
+<h4>Performance</h4>
+With a curb weight of 1,553 kg (3,424 lb), the Huracán LP 610-4 has a power-to-weight ratio of 2.55 kg (5.62 lb) per horsepower.[10]     </td>
+            <td><h4>Specification and performance</h4>
+            	The Lamborghini Urus is much lighter than most of its competitors (i.e. the BMW X6 M, Bentley Bentayga and Rolls-Royce Cullinan, but not the Porsche Cayenne) at less than 2,200 kg (4,850 lb) as quoted by the manufacturer[10] mainly because of the extensive usage of carbon fibre reinforced polymer, although it is based on the same platform as the Audi Q7, Bentley Bentayga, Porsche Cayenne, and Volkswagen Touareg.[11]
+
+The engine is rated at a maximum power output of 478 kW (641 hp; 650 PS) at 6,000 rpm and maximum torque of 850 N⋅m (627 lb⋅ft) at 2,250–4,500 rpm. The Urus has a front-engine, all-wheel-drive layout,[11][12] and a top speed of 305 km/h (190 mph) making it one of the world's fastest production SUVs. The Urus can accelerate from 0–100 km/h (62 mph) in 3.6 seconds and 0–200 km/h (124 mph) in 12.8 seconds.
+
+Lamborghini has developed the world's largest set of carbon ceramic disc brakes[citation needed] for the Urus, with 440 mm (17.32 in) discs in the front and 370 mm (14.57 in) discs in the rear using ten-piston callipers at the front and single-piston calipers at the rear. The all-wheel drive system of the Urus under normal driving sends 40 percent of the available torque to the front wheels and 60 percent to the rear wheels. It also uses torque vectoring to send as much as 70 percent to the front or 87 percent to the rear, when necessary. The SUV also features rear-wheel steering and an air suspension system that can provide a maximum of 250 mm (9.8 in) of ground clearance for off-road use. The SUV is available with an optional off-road package, which includes modified front and rear bumpers that are better suited to the task.     </td>
+      </tr>
+</table>
+</body>
+</html>
